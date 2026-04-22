@@ -15,7 +15,7 @@ https://exploradorparticipacion-hb.streamlit.app/
 
 I hope you enjoy exploring it and discovering how public data can be transformed into useful insights.
 
-![Project Preview]([PUT_IMAGE_LINK_HERE](https://github.com/hucevaba1/hucevaba1/blob/main/previsualizacion.png))
+![Project Preview](https://raw.githubusercontent.com/hucevaba1/hucevaba1/main/previsualizacion.png)
 
 ## 🛠 Skills
 
